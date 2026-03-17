@@ -11,4 +11,3 @@ class Solution:
 
         # Step 3: return top k
         return sorted_nums[:k]
-        
